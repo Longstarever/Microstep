@@ -1,1 +1,2 @@
-# Microstep
+# Microstep #2451504李墨
+用定时器产生可变频率脉冲，通过Microstep驱动器对四相86步进电机(步距角0.9°/pulse)进行速度调节。
